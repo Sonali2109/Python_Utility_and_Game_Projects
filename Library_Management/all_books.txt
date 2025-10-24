@@ -1,0 +1,14 @@
+100,Let Us C,Yashwant K.,Nirali
+112,Let Us C,Yashwant K.,Nirali
+102,Let Us C,Yashwant K.,Nirali
+110,Attitude is Everything,Jeff Keller,HarperCollins
+111,Attitude is Everything,Jeff Keller,HarperCollins
+101,MAD,Prashant S.,Nirali
+190,Py10thon,Ravi M.,TechKnowledge
+191,Python,Ravi M.,TechKnowledge
+163,Core Python,Nageswara R.,dreamtech
+211,Wings of Fire,APJ Abdul Kalam,sciencetech
+211,PHP,Suresh Wagh,Dreamtech
+220,PHP,Suresh Wagh,Nirali
+110,PHP,Suresh Wagh,Dreamtech
+211,Attitude is Everything,Jeff Keller,HarperCollins
