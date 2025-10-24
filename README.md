@@ -2,17 +2,6 @@
 
 Welcome to the **Python Games** repository! This collection features a variety of simple games developed using Python as part of my learning journey and exploration into Python programming.
 
-## Table of Contents
-
-- [About](#about)
-- [Games](#games)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## About
 
 This repository contains simple games implemented in Python, showcasing what I've learned during my programming journey. It's an ongoing project where I aim to improve my coding skills, explore new concepts, and have some fun building games!
