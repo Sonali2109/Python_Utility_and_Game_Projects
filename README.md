@@ -1,26 +1,27 @@
-# Python Games
-
-Welcome to the **Python Games** repository! This collection features a variety of simple games developed using Python as part of my learning journey and exploration into Python programming.
+# Python Projects and Games
+A collection of Python-based mini applications, algorithms, and console games created to practice software engineering concepts, logic building, and backend design.
 
 ## About
 
-This repository contains simple games implemented in Python, showcasing what I've learned during my programming journey. It's an ongoing project where I aim to improve my coding skills, explore new concepts, and have some fun building games!
+- Demonstrates both logical problem-solving and application design in Python
+- Includes console-based utilities and interactive games
+- Emphasizes modularity, code readability, and use of standard Python libraries
 
-## Installation
+## Contents
+🔹 Console & GUI Games
+🎮 Snake and Ladder
+✊ Stone-Paper-Scissor
+🧠 Quiz Game
+⌨️ Typing Speed Game
 
-To get started with the games, follow these steps:
+🔹 Utility / Functional Projects
+📚 Library Management System — Manage book records, member entries, and issue tracking.
+✏️ Editor_C_Lang — Simple file editor to write and execute C programs from Python.
+🔐 Hashing Algorithm Demo — Implementation of basic hashing and collision handling logic.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your_username/Python_Games.git
-
-2. Navigate to the project directory:
-   ```bash
-   cd Python_Games
-
-3. Usage
-To run a game, simply execute the corresponding Python file. For example:
-   ```bash
-   python game.py  # Replace with the actual game file name
+## How to Run
+git clone https://github.com/Sonali2109/Python_Projects_and_Games.git
+cd Python_Projects_and_Games
+python filename.py
 
 ## HAPPY CODING!
